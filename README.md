@@ -1,10 +1,10 @@
-# behavior-builder
+# controller-builder
 
 This project aims to speed up creating entity behaviors for Minecraft Bedrock.
 
-Project temporarily lives here: https://stirante.com/behavior/index.html
+Project temporarily lives here: https://stirante.com/controller/index.html
 
-Uses schema from https://github.com/aexer0e/bedrock-schema
+Uses modified library drawflow from https://github.com/jerosoler/Drawflow
 
 ## Project setup
 ```
